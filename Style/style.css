@@ -1,0 +1,11 @@
+.main-table-content {
+    border-color: #000;
+    border-style: solid;
+    padding: 15px;
+    border-width: 2px;
+}
+
+.main-table {
+    margin: auto;
+    width: 90%;
+}
